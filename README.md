@@ -43,3 +43,9 @@ For experiments, I used two basic models.<br />
 # 2. Transformer model
 ### Transformer has its own strength with self-attention, to attend various positions of the input sequence to compute representations
 ### stacked self-attention : scaled dot product attention, multi-head attention
+### Scaled dot product attention
+![image](https://user-images.githubusercontent.com/47052073/140610900-b722ffd3-990e-4ca0-b950-71cdd44a9464.png)
+- scaled by square root of the depth 
+
+
+
