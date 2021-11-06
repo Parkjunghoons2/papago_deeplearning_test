@@ -30,6 +30,7 @@ For experiments, I used two basic models.<br />
 - 2. Transformer
 
 # BERT context vector and stacked GRU decoders.
+### Because data size is small, Used 6 multihead-attention layers instead of 12
 - For extracting vector space representation of natural languages 
 ![image](https://user-images.githubusercontent.com/47052073/140610312-62ece7c6-72bd-489b-8b0b-32a74aa78b0e.png)
 ![image](https://user-images.githubusercontent.com/47052073/140610328-9dfb3d8a-a837-43f6-ac25-40affa1bfe13.png)
