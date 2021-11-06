@@ -9,11 +9,11 @@
 Data exploration
 
 
-- samples
+- samples <br />
 Train data set: 7260 <br />
 Test data set : 2000 <br />
 
-- number of words in each set
+- number of words in each set <br />
   Train dataset :  <br />
   Test dataset : 609 <br />
 
