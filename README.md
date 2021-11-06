@@ -47,5 +47,10 @@ For experiments, I used two basic models.<br />
 ![image](https://user-images.githubusercontent.com/47052073/140610900-b722ffd3-990e-4ca0-b950-71cdd44a9464.png)
 - scaled by square root of the depth 
 
+### Multi-head attention
+![image](https://user-images.githubusercontent.com/47052073/140611017-bc12b764-1133-43dd-91e9-d3b71140a47c.png)
+- consists with three parts
+- 1. linear layer, 2. scaled-dot product attention, 3. final linear layer
+- Query, Key, Value are inputs and are put through linear layer before multi-head attention
 
 
