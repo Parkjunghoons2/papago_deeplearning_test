@@ -6,7 +6,7 @@
 - 3. Experimental results.
 
 # 1. Experimental Design and Data exploration results
--- Data exploration
+- Data exploration
 <samples>
 Train data set: 7260
 Test data set : 2000
