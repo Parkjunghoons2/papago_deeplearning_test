@@ -9,19 +9,19 @@
 Data exploration
 
 
-- <samples>
+- samples
 Train data set: 7260 <br />
 Test data set : 2000 <br />
 
-- <number of words in each set>
+- number of words in each set
   Train dataset :  <br />
   Test dataset : 609 <br />
 
-- <max length of input> <br />
+- max length of input <br />
   Train dataset : 83 <br />
   Test dataset : 86 <br />
 
-- <max length of outputs> <br />
+- max length of outputs <br />
   Train dataset : 56 <br />
   Test dataset : 56 <br />
 
