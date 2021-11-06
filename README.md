@@ -29,13 +29,16 @@ For experiments, I used two basic models.<br />
 - 1. Using BERT context vector and stacked GRU decoders.
 - 2. Transformer
 
-# BERT context vector and stacked GRU decoders.
+# 1. BERT context vector and stacked GRU decoders.
 ### Because data size is small, Used 6 multihead-attention layers instead of 12
 - For extracting vector space representation of natural languages 
 ![image](https://user-images.githubusercontent.com/47052073/140610312-62ece7c6-72bd-489b-8b0b-32a74aa78b0e.png)
-![image](https://user-images.githubusercontent.com/47052073/140610328-9dfb3d8a-a837-43f6-ac25-40affa1bfe13.png)
-- Used Huggingface's TFBertModel for ease implementation
-- Used 3 GRU decoders
+
+### Used Huggingface's TFBertModel for ease implementation
+- Used 3 stacked GRU as decoders to generate text
 ![image](https://user-images.githubusercontent.com/47052073/140610336-5a5228d7-ef8c-4677-862f-8dcbe45908a2.png)
 
+### Trainable weights are slightly more than 60 million
+
+# 2. Transformer model
 
