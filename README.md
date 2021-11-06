@@ -41,5 +41,5 @@ For experiments, I used two basic models.<br />
 ### Trainable weights are slightly more than 60 million
 
 # 2. Transformer model
-###Transformer has its own strength with self-attention, to attend various positions of the input sequence to compute representations
-###stacked self-attention : scaled dot product attention, multi-head attention
+### Transformer has its own strength with self-attention, to attend various positions of the input sequence to compute representations
+### stacked self-attention : scaled dot product attention, multi-head attention
