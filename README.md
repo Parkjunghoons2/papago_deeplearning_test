@@ -29,4 +29,7 @@ For experiments, I used two basic models.<br />
 - 1. Using BERT context vector and stacked GRU decoders.
 - 2. Transformer
 
-
+# BERT context vector and stacked GRU decoders.
+- For extracting vector space representation of natural languages 
+- Used Huggingface's TFBertModel for ease implementation
+- Used 3 GRU decoders
