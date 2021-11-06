@@ -53,4 +53,8 @@ For experiments, I used two basic models.<br />
 - 1. linear layer, 2. scaled-dot product attention, 3. final linear layer
 - Query, Key, Value are inputs and are put through linear layer before multi-head attention
 
+### Encoder
+- Multi-head attention + pointwise feed forward network
 
+### Decoder
+- Masked multi-head attention + multi-head attention + pointwise feed forward network
