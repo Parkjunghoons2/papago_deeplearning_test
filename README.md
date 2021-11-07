@@ -107,3 +107,12 @@ For experiments, I used two basic models.<br />
 ### plot of accuracy
 ![image](https://user-images.githubusercontent.com/47052073/140644069-1a71f3e7-f9c0-4561-9c13-7b99282f147c.png)
 ### Test accuracy is slightly higher than trian accuracy
+
+# Additional Experiment
+## After training my model, I implemented additional experiment. Therefore, the final results of 2nd model yielded much better results.
+### loss : 
+### accuracy : 
+### test loss : 
+### test accuracy : 
+
+## As a result, this 2nd model has potential to be a good transformatil model.
