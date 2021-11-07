@@ -87,7 +87,12 @@ For experiments, I used two basic models.<br />
 # 2nd model experimental results.
 ## Optimizer : Adam with beta_1 = 0.1, beta_2 = 0.1 and learning rate exponential decaying by 0.9 initialized at 0.00001
 ## loss function : categorical crossentropy
-### loss : 
-### accuracy :
-### test loss :
-### test accuracy : 
+### loss : 1.2822
+### accuracy : 0.8250
+### test loss : 1.2836
+### test accuracy : 0.8249
+
+## plots of loss and accuracy
+![image](https://user-images.githubusercontent.com/47052073/140644066-06e99830-3cfa-4d1a-9538-a69503dd3b76.png)
+![image](https://user-images.githubusercontent.com/47052073/140644069-1a71f3e7-f9c0-4561-9c13-7b99282f147c.png)
+
