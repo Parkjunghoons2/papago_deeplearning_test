@@ -63,4 +63,4 @@ For experiments, I used two basic models.<br />
 
 ### Accuracy
 ### Used Accuracy for evaluation metric
-### 
+### The target sequence is zero padded to match the max length.
