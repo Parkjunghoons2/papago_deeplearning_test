@@ -569,7 +569,6 @@ def main():
         
         return model
     
-    
     ##create tf.data 
     epochs = ar.epochs
     BUFFER_SIZE = len(train_input_tensor)
