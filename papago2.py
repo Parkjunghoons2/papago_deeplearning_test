@@ -706,7 +706,7 @@ def main():
     print('############### Model Fitting ###############################################')
     print('#############################################################################')
     
-    history1 = model.fit(train_batches,
+    history = model.fit(train_batches,
                                     validation_data = val_batches, 
                                     batch_size = BATCH_SIZE,
                                     steps_per_epoch= steps_per_epoch, 
