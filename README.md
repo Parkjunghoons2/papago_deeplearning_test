@@ -40,8 +40,6 @@ For experiments, I used two basic models.<br />
 ### Used 3 stacked GRU as decoders to generate text
 ![image](https://user-images.githubusercontent.com/47052073/140610336-5a5228d7-ef8c-4677-862f-8dcbe45908a2.png)
 
-### Trainable weights are slightly more than 60 million
-
 # 1-2. Transformer model
 ### Transformer has its own strength with self-attention, to attend various positions of the input sequence to compute representations
 ### stacked self-attention : scaled dot product attention, multi-head attention
