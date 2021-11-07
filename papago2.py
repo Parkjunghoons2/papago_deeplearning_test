@@ -13,11 +13,7 @@ import os
 import random
 import numpy as np
 import logging
-from tqdm import tqdm
 import sys
-from transformers.modeling_bert import BertForLongSequenceClassification
-from transformers.modeling_bert import BertForNextSentencePrediction
-from transformers import modeling_bert
 import transformers
 from transformers import BertTokenizer
 from transformers import TFBertModel, BertConfig
