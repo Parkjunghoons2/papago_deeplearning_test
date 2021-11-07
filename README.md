@@ -64,4 +64,4 @@ For experiments, I used two basic models.<br />
 ### Accuracy
 ### Used Accuracy for evaluation metric
 ### The target sequence is zero padded to match the max length.
-### Therefore, accuracy can cause unbalance problems because there are many zero padded tokens, but accuracy was used because the model was not trained by putting a mask on the target sequence.
+### Therefore, accuracy can cause unbalance problems because there are many zero padded tokens, but accuracy was used because the model was not trained by putting a mask at zerro padding token in the target sequence.
