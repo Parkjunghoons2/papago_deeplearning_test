@@ -64,6 +64,29 @@ For experiments, I used two basic models.<br />
 # Evaluation Metric
 
 ### Accuracy
-### Used Accuracy for evaluation metric
+### This experiment used Accuracy as evaluation metric.
 ### The target sequence is zero padded to match the max length.
 ### Therefore, accuracy can cause unbalance problems because there are many zero padded tokens, but accuracy was used because the model was not trained by putting a mask at zerro padding token in the target sequence.
+
+# 1st model experimental results.
+## scenario 1 evaluation results.
+### loss function : categorical crossentropy
+### loss : 1784.4952
+### accuracy : 0.2438
+### test loss : 1534.7498
+### test accuracy : 0.2537
+
+## scenario 2 evaluation results.
+### loss function : categorical crossesntropy
+### loss : 1825.4198
+### accuracy : 0.2274
+### test loss : 1795.3251
+### test accuracy : 0.2537
+
+# 2nd model experimental results.
+## Optimizer : Adam with beta_1 = 0.1, beta_2 = 0.1 and exponential decaying by 0.9 initialized at 0.00001
+## loss function : categorical crossentropy
+## loss : 
+## accuracy :
+## test loss :
+## test accuracy : 
