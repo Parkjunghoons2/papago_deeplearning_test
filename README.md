@@ -1,9 +1,9 @@
 # papago_deeplearning_test
 
 # Sections
-- 1. Experimetal Design
-- 2. Evaluation Metrics
-- 3. Experimental results.
+## 1. Experimetal Design
+## 2. Evaluation Metrics
+## 3. Experimental results.
 
 # 1. Experimental Design and Data exploration results
 Data exploration
