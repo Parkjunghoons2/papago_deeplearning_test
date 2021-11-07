@@ -559,7 +559,7 @@ def main():
         embedding = transformer([input_word_ids, target_word_ids])
         
         embedding = embedding[0]
-        #embedding = tf.keras.layers.BatchNormalization()(embedding)
+        embedding = tf.keras.layers.BatchNormalization()(embedding)
         output = tf.keras.layers.Dropout(0.1)(embedding)
         output1 = tf.keras.layers.Dense(609, activation = 'softmax', trainable = True)(output)
         
