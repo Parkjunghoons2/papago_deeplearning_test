@@ -24,23 +24,10 @@ import official
 from official import nlp
 from official.nlp import bert
 import official.nlp.optimization
-import official.nlp.bert.bert_models
-import official.nlp.bert.configs
-import official.nlp.bert.run_classifier
-import official.nlp.bert.tokenization
-import official.nlp.data.classifier_data_lib
-import official.nlp.modeling.losses
-import official.nlp.modeling.models
-import official.nlp.modeling.networks
-import onnx
 from tensorflow.keras.models import load_model
-from multiprocessing import Pool
-from transformers import get_linear_schedule_with_warmup
 from transformers import AdamW
-from sklearn.metrics import classification_report, roc_auc_score
 import pickle
 import tensorflow.keras.backend as K
-import tensorflow_addons as tfa
 import tensorflow_text as text
 
 
