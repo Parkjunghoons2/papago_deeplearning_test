@@ -29,7 +29,7 @@ For experiments, I used two basic models.<br />
 - 1. Using BERT context vector and stacked GRU decoders.
 - 2. Transformer
 
-# 1. BERT context vector and stacked GRU decoders.
+# 1-1. BERT context vector and stacked GRU decoders.
 ## Because data size is small, Used 6 multihead-attention layers instead of 12
 - For extracting vector space representation of natural languages 
 ![image](https://user-images.githubusercontent.com/47052073/140610312-62ece7c6-72bd-489b-8b0b-32a74aa78b0e.png)
@@ -40,7 +40,7 @@ For experiments, I used two basic models.<br />
 
 ### Trainable weights are slightly more than 60 million
 
-# 2. Transformer model
+# 1-2. Transformer model
 ### Transformer has its own strength with self-attention, to attend various positions of the input sequence to compute representations
 ### stacked self-attention : scaled dot product attention, multi-head attention
 ### Scaled dot product attention
@@ -64,3 +64,4 @@ For experiments, I used two basic models.<br />
 ### Accuracy
 ### Used Accuracy for evaluation metric
 ### The target sequence is zero padded to match the max length.
+### Therefore, accuracy can cause unbalance problems because there are many zero padded tokens, but accuracy was used because the model was not trained by putting a mask on the target sequence.
