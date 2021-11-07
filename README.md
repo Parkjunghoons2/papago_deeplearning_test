@@ -17,7 +17,7 @@ Train data set: 7260 <br />
 Test data set : 2000 <br />
 
 - number of words in each set <br />
-  Train dataset :  <br />
+  Train dataset : 55 <br />
   Test dataset : 609 <br />
 
 - max length of input <br />
