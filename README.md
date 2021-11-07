@@ -31,7 +31,9 @@ For experiments, I used two basic models.<br />
 
 # 1-1. BERT context vector and stacked GRU decoders.
 ## Because data size is small, Used 6 multihead-attention layers instead of 12
-- For extracting vector space representation of natural languages 
+### For extracting vector space representation of natural languages 
+### scenario 1) bring pretrained weights
+### scenario 2) learning from scratch
 ![image](https://user-images.githubusercontent.com/47052073/140610312-62ece7c6-72bd-489b-8b0b-32a74aa78b0e.png)
 
 ## Used Huggingface's TFBertModel for ease implementation
