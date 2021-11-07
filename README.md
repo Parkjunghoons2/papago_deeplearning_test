@@ -13,18 +13,17 @@ Data exploration
 
 - samples <br />
 Train data set: 7260 <br />
-Test data set : 2000 <br />
+Test data set : 2000 <br /> 
 
 - data set length
-  Train input 
-  ![image](https://user-images.githubusercontent.com/47052073/140645690-3242ff3d-088b-4838-b1c6-85b1bb0fc173.png)
-  Train target 
-  ![image](https://user-images.githubusercontent.com/47052073/140645711-9bee9666-0607-4501-964c-e29bef272552.png)
-  Test input 
-  ![image](https://user-images.githubusercontent.com/47052073/140645736-55402679-e242-4f91-9a2e-01baa9e1562b.png)
-
-  Test target
-  ![image](https://user-images.githubusercontent.com/47052073/140645732-e44b1d4d-7e0c-4d24-aa90-08a6aa88a728.png)
+  Train input <br />
+  ![image](https://user-images.githubusercontent.com/47052073/140645690-3242ff3d-088b-4838-b1c6-85b1bb0fc173.png) <br />
+  Train target <br />
+  ![image](https://user-images.githubusercontent.com/47052073/140645711-9bee9666-0607-4501-964c-e29bef272552.png) <br />
+  Test input <br />
+  ![image](https://user-images.githubusercontent.com/47052073/140645736-55402679-e242-4f91-9a2e-01baa9e1562b.png) <br />
+  Test target <br />
+  ![image](https://user-images.githubusercontent.com/47052073/140645732-e44b1d4d-7e0c-4d24-aa90-08a6aa88a728.png) <br />
 
 - number of words in each set <br />
   Train dataset : 55 <br />
