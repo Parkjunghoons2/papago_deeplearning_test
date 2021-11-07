@@ -97,4 +97,4 @@ For experiments, I used two basic models.<br />
 ![image](https://user-images.githubusercontent.com/47052073/140644066-06e99830-3cfa-4d1a-9538-a69503dd3b76.png)
 ### plot of accuracy
 ![image](https://user-images.githubusercontent.com/47052073/140644069-1a71f3e7-f9c0-4561-9c13-7b99282f147c.png)
-
+### Test accuracy is slightly higher than trian accuracy
