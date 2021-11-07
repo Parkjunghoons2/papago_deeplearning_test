@@ -116,3 +116,5 @@ For experiments, I used two basic models.<br />
 ### test accuracy : 
 
 ## As a result, this 2nd model has potential to be a good transformatil model.
+![image](https://user-images.githubusercontent.com/47052073/140647374-ef3541ad-f8d7-4138-a719-9e90604552e3.png)
+
