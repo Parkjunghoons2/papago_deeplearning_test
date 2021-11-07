@@ -1,4 +1,7 @@
 # papago_deeplearning_test
+## Properties
+### Python 3.6
+### tensorflow 2.3.0
 
 # Sections
 ## 1. Experimetal Design
