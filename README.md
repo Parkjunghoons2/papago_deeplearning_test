@@ -110,10 +110,10 @@ For experiments, I used two basic models.<br />
 
 # Additional Experiment
 ## After training my model, I implemented additional experiment. Therefore, the final results of 2nd model yielded much better results.
-### loss : 
-### accuracy : 
-### test loss : 
-### test accuracy : 
+### loss : 0.9743
+### accuracy : 0.8506
+### test loss : 0.9210
+### test accuracy : 0.8490
 
 ## As a result, this 2nd model has potential to be a good transformatil model.
 ![image](https://user-images.githubusercontent.com/47052073/140647374-ef3541ad-f8d7-4138-a719-9e90604552e3.png)
