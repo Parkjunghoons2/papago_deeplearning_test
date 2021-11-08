@@ -115,7 +115,7 @@ For experiments, I used two basic models.<br />
 ### test loss : 0.9210
 ### test accuracy : 0.8490
 
-## As a result, this 2nd model has potential to be a good transformatil model.
+## As a result, this 2nd model has potential to be a good translation model.
 ![image](https://user-images.githubusercontent.com/47052073/140647374-ef3541ad-f8d7-4138-a719-9e90604552e3.png)
 ## Improved 2nd model weights link
 https://drive.google.com/drive/folders/1hTlrdRGp9zzNuo5SVNTD7ek9rAE5eStx?usp=sharing
